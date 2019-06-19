@@ -8,7 +8,6 @@ def create_project_hash
   
   binding.pry
   
-  kickstarter.css("li.project.grid_4").first 
   
   
 end
